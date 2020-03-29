@@ -1,2 +1,2 @@
-# javaScript-interview-quiz
+# javaScript Interview Questions
 Simple JavaScript questions which can be asked during am interview
